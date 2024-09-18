@@ -7,3 +7,4 @@ belajar git & github
 mungkin belajar laravel
 mungkin minggu depan belajar framework node.js
 python
+typescript
