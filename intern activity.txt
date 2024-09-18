@@ -2,3 +2,5 @@ belajar pasal angular
 belajar coding dalam angular
 belajar buat website dalam angular walaupun tidak menjadi
 dah buat beberapa website contohnya to do list, login page
+
+belajar git & github
