@@ -5,3 +5,5 @@ dah buat beberapa website contohnya to do list, login page
 
 belajar git & github
 mungkin belajar laravel
+mungkin minggu depan belajar php
+python
